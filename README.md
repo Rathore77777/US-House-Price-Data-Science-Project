@@ -39,7 +39,7 @@ Used Plotly to create interactive plots.
 #### The Files named US_HousePrice_Part1.ipynb Contains the Data Preparation part and US_HousePrice_Part2.ipynb contains the Model Building Part.
 
 ### References:
-[https://fred.stlouisfed.org/](url)  
+https://fred.stlouisfed.org/  
 [https://www.investing.com/economic-calendar/s-p-cs-hpi-composite-20-n.s.a.-329](url)
 
 
