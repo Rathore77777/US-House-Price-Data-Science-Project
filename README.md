@@ -37,7 +37,7 @@ Interpreted the model results to identify the most significant factors influenci
 Used Plotly to create interactive plots.
 
 ### Results:
-The Best Performing model was GradientBoostingRegressor with R2 Score: 0.9978464577980202 and RMSE: 0.04095546385887566
+The Best Performing model was GradientBoostingRegressor() with R2 Score: 0.9978464577980202 and RMSE: 0.04095546385887566
 The most important factors affecting the US House Price are - cost of material, Subsidy, Median Household Income, CPI, GDP, Unemployment Rate and Working Population.
 
 #### The Files named US_HousePrice_Part1.ipynb Contains the Data Preparation part and US_HousePrice_Part2.ipynb contains the Model Building Part.
