@@ -40,6 +40,6 @@ Used Plotly to create interactive plots.
 
 ### References:
 https://fred.stlouisfed.org/  
-[https://www.investing.com/economic-calendar/s-p-cs-hpi-composite-20-n.s.a.-329](url)
+https://www.investopedia.com/articles/mortgages-real-estate/10/understanding-case-shiller-index.asp
 
 
