@@ -3,9 +3,9 @@
 ## US Home Prices Analysis
 ### Introduction
 This project aims to analyze and understand the key factors influencing US home prices over the last 20 years (2004-2024). By collecting and examining various economic and demographic indicators, we seek to uncover insights that can provide valuable information for stakeholders in the real estate market.
-#### The data of the factors which influences the home prices such as Per Capita GDP, Consumer Price Index (CPI), Construction Material Costs, Median Household Income, Subsidies, Unemployment Rate, working population, etc are collected from FRED Website.
+###### The data of the factors which influences the home prices such as Per Capita GDP, Consumer Price Index (CPI), Construction Material Costs, Median Household Income, Subsidies, Unemployment Rate, working population, etc are collected from FRED Website.
 
-### The S&P Case-Schiller Home Price Index (CS_Index) is used as a proxy for home prices. The Data files are sourced from the Federal Reserve Economic Data (FRED) website.
+##### The S&P Case-Schiller Home Price Index (CS_Index) is used as a proxy for home prices. The Data files are sourced from the Federal Reserve Economic Data (FRED) website.
 
 ## Step-by-Step Plan
 
@@ -33,5 +33,13 @@ Evaluate the models using metrics like R² and RMSE  to understand their predict
 ### Interpretation: 
 Interpreted the model results to identify the most significant factors influencing home prices and provide actionable insights.
 
+#### The Files named US_HousePrice_Part1.ipynb Contains the Data Preparation part and US_HousePrice_Part2.ipynb contains the Model Building Part.
+
 ### Interactive Visualizations: 
 Used Plotly to create interactive plots.
+
+### References:
+[https://fred.stlouisfed.org/](url)
+[https://www.investing.com/economic-calendar/s-p-cs-hpi-composite-20-n.s.a.-329](url)
+
+
